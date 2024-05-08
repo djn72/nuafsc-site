@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Ignore Mac files
+.DS_Store
+
+### Node
+node_modules/
+
